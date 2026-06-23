@@ -1,0 +1,1 @@
+INSERT IGNORE INTO users (username, password, email, role, enabled) VALUES ('admin', 'password_encriptado', 'admin@duocuc.cl', 'ADMIN', 1);
